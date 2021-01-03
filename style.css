@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css??family=Do+Hyeon&display=swap')
+/*universal, type, id, class*/
+/*comdbination selectors*/
+                         
+
+
+
+
+
+
+body{
+    font-family: 'Do Hydeon', sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Do Hydeon', sans-serif;
+}
+div{
+    display: inline-block;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+}
+img{
+    height: 70%;
+}
+#heading{
+    color: darkgreen;
+}
+.green-box{
+    background-color: lightgreen;
+}
+section h2{
+    color: red;
+}
+h1+div{
+    background-color: lightgreen;
+}
